@@ -1,4 +1,4 @@
-# Привет! Я Дмитрий Бобровский! Data Scientist
+# Привет! Я Дмитрий Бобровский!
 ---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
